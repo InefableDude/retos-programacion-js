@@ -37,7 +37,7 @@ El propósito de este proyecto es:
 
 ##  🏆 Progreso
 
-- [ ] Reto 001 - El famoso "Fizz Buzz"
+- [x] Reto 001 - El famoso "Fizz Buzz"
 - [ ] Reto 002 - ¿Es un anagrama?
 - [ ] Reto 003 - La sucesión de Fibonacci
 - [ ] Reto 004 - ¿Es un número primo?
