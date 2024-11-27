@@ -1,7 +1,5 @@
 # Reto 01 - El famoso "Fizz Buzz"
 
- - [ ] Completado
-
 En que consiste el reto:
 ```
 Escribe un programa que muestre por consola
